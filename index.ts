@@ -292,10 +292,6 @@ function save_db(): void {
     });
 }
 
-events.serverOpen.on(() => {
-    console.log('')
-});
-
 events.serverLeave.on(() => {
     save_db();
 });
