@@ -7,8 +7,6 @@
   \____/ \__,_|_| |_|_____/ \___| \_//_/  \___/
 
 
-This program was produced by JunDev76 and cannot be reproduced, distributed or used without permission.
-
 Developers:
  - JunDev76 (https://github.jundev.me/)
 
